@@ -6,16 +6,25 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-
 <url>
-  <loc>https://www.barayaish.com/</loc>
+  <loc>https://www.barayaish.com/?i=1</loc>
   <lastmod>2024-05-04T15:17:25+00:00</lastmod>
   <priority>0.9</priority>
 </url>
 <url>
+  <loc>https://barayaish.com/?i=1</loc>
+  <lastmod>2024-05-04T15:17:25+00:00</lastmod>
+  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://www.barayaish.com/</loc>
+  <lastmod>2024-05-04T15:17:25+00:00</lastmod>
+  <priority>0.3</priority>
+</url>
+<url>
   <loc>https://barayaish.com/</loc>
   <lastmod>2024-05-04T15:17:25+00:00</lastmod>
-  <priority>0.6</priority>
+  <priority>0.1</priority>
 </url>
 
 </urlset>
