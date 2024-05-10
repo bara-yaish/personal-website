@@ -12,6 +12,7 @@
   --fs-secondary-900: calc(5rem - 4px);
 
   --white: #f5f5f5;
+  --grey: #f5f5f5d0;
   --teal: #3fc1c9;
   --pink: #fc5185;
   --navy: #364f6b;
@@ -253,6 +254,14 @@ a {
 .project-title {
   font-size: var(--fs-primary-600);
   font-weight: var(--fw-black);
+}
+
+.project-title > a:hover {
+  text-decoration: underline;
+}
+
+.project-title > a:active {
+  color: var(--grey);
 }
 
 .project-description {
